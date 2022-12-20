@@ -1,3 +1,3 @@
 # coundown-Timer
 
-![](img/NEAW-YEAR.png)
+![](img/new-year.png)
